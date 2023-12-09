@@ -1,0 +1,9 @@
+div{
+    margin: 200px 500px;
+    width: 800px;
+    height: 300px;
+    background: rgb(28,14,93);
+background: linear-gradient(90deg, #1c0e5d 15%, rgba(121,70,70,1) 100%, rgba(0,212,255,1) 100%);
+border: 4px solid   rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);;
+}
